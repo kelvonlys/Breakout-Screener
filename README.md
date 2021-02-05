@@ -15,7 +15,7 @@ Since the signal seldom occurs in a daily basis, the strategy takes stocks from 
 
 Result is shown as below:
 
-![alt text] (https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/alpha.png)
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/alpha.png)
 
 # Strategy
 With the overall success rate over 50% with random stocks during backtest, I added an equal portfolio management strategy and a simple risk management model to this strategy. Also, a trailing stop loss by utilising different moving averages is introduced into the strategy. The result is shown below:
