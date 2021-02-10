@@ -1,5 +1,5 @@
 # Bollinger-Band-Keltner-Channel-Strategy
-This strategy applies the Bollinger Band together with Keltner Channel in order to locate stocks which are about to breakout in a daily basis. Simple moving average is used on Bollinger Band while exponential moving average is applied on Keltner Channel 
+This strategy applies Bollinger Band together with Keltner Channel in order to locate stocks which are about to breakout in a daily basis. Simple moving average is used on Bollinger Band while exponential moving average is applied on Keltner Channel 
 
 # Objective
 The objective of this project is to test if Bollinger Band and Keltner Channel can capture some of the breakout of stocks. 
