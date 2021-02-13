@@ -21,6 +21,18 @@ Interestingly, it is found that the strategy successfully capture most of the br
 
 <!-- Break Previous Top -->
 
+# PYPL
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/PYPL.png)
+
+# CSCO
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CSCO.png)
+
+# SHOP
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SHOP.png)
+
+# SQ
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SQ.png)
+
 # JNJ
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/JNJ.png)
 
@@ -78,6 +90,9 @@ Signal is generated on 2021-02-09 for UBER again
 
 # CAT
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CAT.png)
+
+# ADBE
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ADBE.png)
 
 # DHR
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/DHR.png)
