@@ -39,12 +39,6 @@ Noted that 2021-02-08 00:00:00 means the end of 2021-02-05 trading day.
 # JNJ
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/JNJ.png)
 
-# UNP
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UNP.png)
-
-# FPL
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/FPL.png)
-
 # UNH
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UNH.png)
 
@@ -97,20 +91,8 @@ Signal is generated on 2021-02-09 for UBER again
 # ADBE
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ADBE.png)
 
-# DHR
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/DHR.png)
-
-# MRK
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/MRK.png)
-
-
-
 # ABBV
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ABBV.png)
-
-# LLY
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/LLY.png)
-
 
 
 
