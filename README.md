@@ -13,7 +13,7 @@ By applying the Bollinger Band with Keltner Channel  together with candlestick p
 
 Since the signal seldom occurs in a daily basis, the strategy takes stocks from the pool of top 100 transaction volume in the US equity market.
 
-Result is shown as below:
+The result below shows that the overall success rate is over 50%:
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/alpha.png)
 
@@ -25,25 +25,25 @@ Interestingly, it is found that the strategy successfully capture most of the br
 
 <!-- Break Previous Top -->
 
-# PYPL
+## PYPL ## 
 2021-02-08 00:00:00 Symbol: [ PYPL W2CQDXKV7WPX], Up insight generated at Time: 2021-02-08 00:00:00 
 
 **Noted that 2021-02-08 00:00:00 means the end of 2021-02-05 trading day.**
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/PYPL.png)
 
-# CSCO
+## CSCO ##
 2021-02-09 00:00:00 Symbol: [ CSCO R735QTJ8XC9X], Up insight generated at Time: 2021-02-09 00:00:00 
 
 **Noted that 2021-02-09 00:00:00 means the end of 2021-02-08 trading day.**
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CSCO.png)
 
-# SHOP
+## SHOP ##
 2021-02-09 00:00:00 Symbol: [ SHOP W0PNKBMQMN39], Up insight generated at Time: 2021-02-09 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SHOP.png)
 
-# SQ
+## SQ ##
 2021-02-09 00:00:00 Symbol: [ SQ W5OUXC7GJYAT], Up insight generated at Time: 2021-02-09 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SQ.png)
@@ -51,12 +51,15 @@ Interestingly, it is found that the strategy successfully capture most of the br
 # UBER
 2021-02-09 00:00:00 Symbol: [ UBER X4DDRW1HKLT1], Up insight generated at Time: 2021-02-09 00:00:00 
 
+
+Signal is generated on the end of 2021-02-08 for UBER again
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210209.png)
+
+
 Signal is generated on 2021-01-14 for UBER
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210114.png)
 
 
-Signal is generated on the end of 2021-02-08 for UBER again
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210209.png)
 
 <!-- Break Price Channel Top -->
 
