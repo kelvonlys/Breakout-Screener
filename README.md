@@ -86,10 +86,6 @@ Signal is generated on 2021-02-09 for UBER again
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ADBE.png)
 
 
-
-# LOG
-
-
 # Strategy
 With the overall success rate over 50% with random stocks during backtest, I added an equal portfolio management strategy and a simple risk management model to this strategy. Also, a trailing stop loss by utilising different moving averages is introduced into the strategy. The result is shown below:
 
