@@ -42,6 +42,29 @@ Interestingly, it is found that the strategy successfully capture most of the br
 # ZEN
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ZEN_top.png)
 
+# GE
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/GE.png)
+
+# QCOM
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/QCOM.png)
+
+# HD
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/HD.png)
+
+# Low
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Low.png)
+
+
+
+# UBER
+
+Signal is generated on 2021-01-14 for UBER
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210114.png)
+
+
+Signal is generated on 2021-02-09 for UBER again
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210209.png)
+
 
 <!-- Break Price Channel Top -->
 
@@ -66,30 +89,10 @@ Interestingly, it is found that the strategy successfully capture most of the br
 # ABBV
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ABBV.png)
 
-# GE
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/GE.png)
-
 # LLY
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/LLY.png)
 
-# QCOM
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/QCOM.png)
 
-# HD
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/HD.png)
-
-# Low
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Low.png)
-
-
-
-# UBER
-Signal is generated on 2021-01-14 for UBER
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210114.png)
-
-
-Signal is generated on 2021-02-09 for UBER again
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210209.png)
 
 
 # Strategy
