@@ -17,26 +17,37 @@ Result is shown as below:
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/alpha.png)
 
+Log:
+
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Log.png)
+
 Interestingly, it is found that the strategy successfully capture most of the breakout either before or after the breakout happens. Below are a few examples with various chart patterns drawn.
 
 <!-- Break Previous Top -->
 
 # PYPL
-Noted that 2021-02-08 00:00:00 means the end of 2021-02-05 trading day. 
-
 2021-02-08 00:00:00 Symbol: [ PYPL W2CQDXKV7WPX], Up insight generated at Time: 2021-02-08 00:00:00 
+
+Noted that 2021-02-08 00:00:00 means the end of 2021-02-05 trading day. 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/PYPL.png)
 
 # CSCO
+2021-02-09 00:00:00 Symbol: [ CSCO R735QTJ8XC9X], Up insight generated at Time: 2021-02-09 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CSCO.png)
 
 # SHOP
+2021-02-09 00:00:00 Symbol: [ SHOP W0PNKBMQMN39], Up insight generated at Time: 2021-02-09 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SHOP.png)
 
 # SQ
+2021-02-09 00:00:00 Symbol: [ SQ W5OUXC7GJYAT], Up insight generated at Time: 2021-02-09 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SQ.png)
 
 # UBER
+2021-02-09 00:00:00 Symbol: [ UBER X4DDRW1HKLT1], Up insight generated at Time: 2021-02-09 00:00:00 
 
 Signal is generated on 2021-01-14 for UBER
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210114.png)
@@ -48,20 +59,33 @@ Signal is generated on 2021-02-09 for UBER again
 <!-- Break Price Channel Top -->
 
 # INTC
+2021-01-07 00:00:00 Symbol: [ INTC R735QTJ8XC9X], Up insight generated at Time: 2021-01-07 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Intel.png)
 
 # TSLA
+2021-01-07 00:00:00 Symbol: [ TSLA UNU3P8Y3WFAD], Up insight generated at Time: 2021-01-07 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/TSLA.png)
 
+# ABBV
+2021-01-14 00:00:00 Symbol: [ ABBV VCY032R250MD], Up insight generated at Time: 2021-01-14 00:00:00 
+
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ABBV.png)
+
 # CAT
+2021-02-11 00:00:00 Symbol: [ CAT R735QTJ8XC9X], Up insight generated at Time: 2021-02-11 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CAT.png)
 
 # ADBE
+2021-02-08 00:00:00 Symbol: [ ADBE R735QTJ8XC9X], Up insight generated at Time: 2021-02-08 00:00:00 
+
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ADBE.png)
 
-# ABBV
-![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ABBV.png)
 
+
+# LOG
 
 
 # Strategy
