@@ -23,6 +23,7 @@ Interestingly, it is found that the strategy successfully capture most of the br
 
 # PYPL
 Noted that 2021-02-08 00:00:00 means the end of 2021-02-05 trading day. 
+
 2021-02-08 00:00:00 Symbol: [ PYPL W2CQDXKV7WPX], Up insight generated at Time: 2021-02-08 00:00:00 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/PYPL.png)
 
