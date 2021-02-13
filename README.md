@@ -55,7 +55,7 @@ Signal is generated on 2021-01-14 for UBER
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210114.png)
 
 
-Signal is generated on 2021-02-09 for UBER again
+Signal is generated on the end of 2021-02-08 for UBER again
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UBER_20210209.png)
 
 <!-- Break Price Channel Top -->
