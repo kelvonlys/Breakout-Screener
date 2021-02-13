@@ -17,7 +17,7 @@ The result below shows that the overall success rate is over 50%:
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/alpha.png)
 
-Log:
+## Log: ##
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Log.png)
 
@@ -48,7 +48,7 @@ Interestingly, it is found that the strategy successfully capture most of the br
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/SQ.png)
 
-# UBER
+## UBER ##
 2021-02-09 00:00:00 Symbol: [ UBER X4DDRW1HKLT1], Up insight generated at Time: 2021-02-09 00:00:00 
 
 
@@ -63,27 +63,27 @@ Signal is generated on 2021-01-14 for UBER
 
 <!-- Break Price Channel Top -->
 
-# INTC
+## INTC ##
 2021-01-07 00:00:00 Symbol: [ INTC R735QTJ8XC9X], Up insight generated at Time: 2021-01-07 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Intel.png)
 
-# TSLA
+## TSLA ##
 2021-01-07 00:00:00 Symbol: [ TSLA UNU3P8Y3WFAD], Up insight generated at Time: 2021-01-07 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/TSLA.png)
 
-# ABBV
+## ABBV ##
 2021-01-14 00:00:00 Symbol: [ ABBV VCY032R250MD], Up insight generated at Time: 2021-01-14 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ABBV.png)
 
-# CAT
+## CAT ##
 2021-02-11 00:00:00 Symbol: [ CAT R735QTJ8XC9X], Up insight generated at Time: 2021-02-11 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CAT.png)
 
-# ADBE
+## ADBE ##
 2021-02-08 00:00:00 Symbol: [ ADBE R735QTJ8XC9X], Up insight generated at Time: 2021-02-08 00:00:00 
 
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/ADBE.png)
