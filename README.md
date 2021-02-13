@@ -19,14 +19,34 @@ Result is shown as below:
 
 Interestingly, it is found that the strategy successfully capture most of the breakout either before or after the breakout happens. Below are a few examples with various chart patterns drawn.
 
-INTC
+# INTC
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/Intel.png)
 
-TSLA
+# TSLA
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/TSLA.png)
 
-JNJ
+# JNJ
 ![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/JNJ.png)
+
+# CAT
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/CAT.png)
+
+# DHR
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/DHR.png)
+
+# FPL
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/FPL.png)
+
+# UNH
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UNH.png)
+
+# UNP
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/UNP.png)
+
+# TMO
+![alt text](https://github.com/kelvonlys/Bollinger-Band-Keltner-Channel-Strategy/blob/main/TMO.png)
+
+
 
 # Strategy
 With the overall success rate over 50% with random stocks during backtest, I added an equal portfolio management strategy and a simple risk management model to this strategy. Also, a trailing stop loss by utilising different moving averages is introduced into the strategy. The result is shown below:
